@@ -5,3 +5,5 @@ just for practice
 --
 
 15:02; call from cgu025
+
+15:19; call from Macbook
