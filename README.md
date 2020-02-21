@@ -9,3 +9,6 @@ just for practice
 15:19; call from Macbook
 
 15:22; call from cgu025 again
+
+
+18:00; call from Macbook; the sun
